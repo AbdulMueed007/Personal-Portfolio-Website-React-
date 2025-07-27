@@ -94,5 +94,4 @@ Suggestions and contributions are welcome! Feel free to fork and improve this po
 * Email: [mueeda581@gmail.com](mailto:mueeda581@gmail.com)
 * LinkedIn: \[Your LinkedIn link]
 * GitHub: \[Your GitHub link]
-# Getting Started with Create React App
 
