@@ -7,8 +7,6 @@ Welcome to the source code of my **Personal Developer Portfolio**, built using *
 ##  Features
 
 *  Built with React (Functional Components + Hooks)
-*  Dark Mode / Light Mode Toggle
-*  Fully Responsive Design
 *  Clean UI/UX
 *  Project showcase section
 *  Contact form
@@ -35,7 +33,7 @@ To run this project locally, follow these steps:
 1. Clone the Repository:
 
 ```
-git clone https://github.com/your-username/react-portfolio.git
+git clone https://github.com/AbdulMueed007/react-portfolio.git
 cd react-portfolio
 ```
 
